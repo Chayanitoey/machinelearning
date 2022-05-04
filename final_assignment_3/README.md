@@ -10,20 +10,15 @@ Objctive: Group the right features and number of clusters when the products in e
 
 
 #### Clustering
-
-Looking from the graph ![results](https://github.com/Chayanitoey/machinelearning/blob/main/final_assignment_3/assignment3_1.jpg)
+https://github.com/Chayanitoey/machinelearning/blob/main/final_assignment_3/K_mean.jpg
+Looking from the graph ![results](https://github.com/Chayanitoey/machinelearning/blob/main/final_assignment_3/K_mean.jpg)
 I chose '21' as the optimal k-mean since the point represents the best evaluation of the data set. 
+The point at '21' is the most descending one based on the range of 1 to 60 clusters and Intertia. 
 
-### Your work will be assessed on: 
+### Results : 
 
-* data processing and transformation  
-* choosing the right number of clusters for the problem  
-* the organization and documentation of your GitHub repository  
-* communication of your work in class reflections and final presentations  
-* model improvement over the semester
+![results](https://github.com/Chayanitoey/machinelearning/blob/main/final_assignment_3/assignment3_1.jpg)
 
-### Include with submission: 
+- There are 20 clusters in total and based on this distribution, the min is '348' and max is '4097' - the range of the distributions is '3,749' 
+- After conducting countless of trials and errors, I discovered that this # of clustering yields the most satisfying results. 
 
-* your Python code in a Jupyter Notebook (include all code that contributed to your final model, including data work and feature transformations)  
-* plots that show why you chose the number of clusters you chose  
-* clear documentation that demonstrates cluster results for "good" clusters (including photos, by cluster)
