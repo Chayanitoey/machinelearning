@@ -11,7 +11,7 @@ Objctive: Group the right features and number of clusters when the products in e
 
 #### Clustering
 
-Looking from the graph [image](https://github.com/Chayanitoey/machinelearning/blob/main/final_assignment_3/assignment3_1.jpg) 
+Looking from the graph ![results](https://github.com/Chayanitoey/machinelearning/blob/main/final_assignment_3/assignment3_1.jpg)
 I chose '21' as the optimal k-mean since the point represents the best evaluation of the data set. 
 
 ### Your work will be assessed on: 
